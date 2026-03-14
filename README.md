@@ -1,6 +1,4 @@
 # Stock-Market-ANN
-# Author: Austin Locke (austin.locke95@gmail.com)
-# Date: Fall 2017
 Class project for intro artificial intelligence class. 
 Demonstrates a very basic artificial neural network, albeit not a very accurate one.
 
